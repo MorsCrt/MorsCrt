@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Data Analysis Intern at Jotform</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morscrt&label=Profile%20views&color=0e75b6&style=flat" alt="morscrt" /> </p>
 
-- 🔭 I’m currently working on [Car Rental App](https://github.com/MorsCrt/3301456_203301130)
 
-- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **is.emrecoban@gmail.com**
 
